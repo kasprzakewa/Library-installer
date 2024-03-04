@@ -1,4 +1,4 @@
-//komentarz
+//komentarz1
 
 #include <stdio.h>
 #include "nwd.h"
