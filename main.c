@@ -1,3 +1,5 @@
+//komentarz
+
 #include <stdio.h>
 #include "nwd.h"
 #include "logger.h"
